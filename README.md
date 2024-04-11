@@ -48,6 +48,10 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Step 3: Modifying your App
 
+1:I worked on the UI best than last projects,and working on the small things like all the things about the search bar and what can do the search button small details but very important for an app ,...
+
+2:working in progress for other pages...
+
 Now that you have successfully run the app, let's modify it.
 
 1. Open `App.tsx` in your text editor of choice and edit some lines.
